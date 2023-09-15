@@ -1,0 +1,29 @@
+.text-menor {
+  font-size: 13px;
+}
+
+.divs-facilidades {
+  width: 325px;
+  color: #daff01;
+}
+
+.div-novidades {
+  width: 325px;
+}
+
+.btn-primary {
+  background-color: #9353FF;
+
+}
+
+.posicao{
+  top: 40%;
+}
+
+@media(min-width: 768px) {
+
+  .div-novidades {
+      width: 696px;
+  }
+
+}
